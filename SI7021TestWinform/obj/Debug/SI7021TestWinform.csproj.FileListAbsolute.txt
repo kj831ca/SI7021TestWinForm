@@ -1,0 +1,32 @@
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/bin/Debug/SI7021TestWinform.exe.config
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/bin/Debug/SI7021TestWinform.exe
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/bin/Debug/SI7021TestWinform.pdb
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.csprojAssemblyReference.cache
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.Form1.resources
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.Properties.Resources.resources
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.csproj.GenerateResource.cache
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.csproj.CoreCompileInputs.cache
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.exe
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.pdb
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/bin/Debug/System.Drawing.Common.dll
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/bin/Debug/ZedGraph.dll
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.csproj.CopyComplete
+D:/Projects/Raspberry PI/SI7021TestWinform/SI7021TestWinform/bin/Debug/ZedGraph.Web.dll
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/bin/Debug/SI7021TestWinform.exe.config
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/bin/Debug/SI7021TestWinform.exe
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/bin/Debug/SI7021TestWinform.pdb
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/bin/Debug/System.Drawing.Common.dll
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/bin/Debug/ZedGraph.dll
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/bin/Debug/ZedGraph.Web.dll
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.csprojResolveAssemblyReference.cache
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.exe.config
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.Form1.resources
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.Properties.Resources.resources
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.csproj.GenerateResource.cache
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.csproj.CoreCompileInputs.cache
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.exe
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/obj/Debug/SI7021TestWinform.pdb
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/bin/Debug/SI7021Module.dll
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/bin/Debug/RPi.I2C.Net.dll
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/bin/Debug/SI7021Module.pdb
+/home/pi/Desktop/SI7021Module/SI7021TestWinform/SI7021TestWinform/bin/Debug/RPi.I2C.Net.pdb
