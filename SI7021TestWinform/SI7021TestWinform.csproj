@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>SI7021TestWinform</RootNamespace>
     <AssemblyName>SI7021TestWinform</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -91,7 +91,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\SI7021Module\SI7021Module\SI7021Module\SI7021Module.csproj">
+    <ProjectReference Include="..\..\SI7021Module\SI7021Module\SI7021Module.csproj">
       <Project>{275B556B-2D3B-4E3A-8BF0-35739DB9343A}</Project>
       <Name>SI7021Module</Name>
     </ProjectReference>

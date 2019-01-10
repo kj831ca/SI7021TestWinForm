@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SI7021TestWinform", "SI7021TestWinform\SI7021TestWinform.csproj", "{1EE9B978-0717-4A86-8ED7-E5B4E25359C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SI7021Module", "..\SI7021Module\SI7021Module\SI7021Module\SI7021Module.csproj", "{275B556B-2D3B-4E3A-8BF0-35739DB9343A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SI7021Module", "..\SI7021Module\SI7021Module\SI7021Module.csproj", "{275B556B-2D3B-4E3A-8BF0-35739DB9343A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
